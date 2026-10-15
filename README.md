@@ -1,80 +1,36 @@
 
-# Olá, eu sou Miguel Lukas 👋
+<h1 align="center">Olá, eu sou Miguel Lukas 👋</h1>
 
-Sou técnico em Desenvolvimento de Sistemas e estudante de Engenharia de Software. Tenho interesse em criar aplicações web, sistemas completos e soluções que aproximem tecnologia e necessidades reais.
+<p align="center">
+	Técnico em Desenvolvimento de Sistemas | Estudante de Engenharia de Software
+</p>
 
-Minha formação começou na ETEC, onde desenvolvi a base em programação, desenvolvimento web, bancos de dados e análise de sistemas. Atualmente, continuo aprofundando meus conhecimentos em Engenharia de Software por meio de estudos e projetos práticos.
+## 💫 Sobre mim
 
-## Sobre mim
+Tenho interesse em desenvolvimento web, programação e bancos de dados. Gosto de aprender criando projetos práticos e aprimorando minhas soluções.
 
-- Técnico em Desenvolvimento de Sistemas pela ETEC
-- Estudante de Engenharia de Software
-- Entusiasta de desenvolvimento web e sistemas de informação
-- Aprendizado orientado pela prática, com projetos acadêmicos e pessoais
-- Perfil interessado em evoluir continuamente em programação e tecnologia
+## 💻 Tech Stack
 
-## Habilidades e conhecimentos
+<p>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+	<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+	<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic">
+	<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+</p>
 
-### Desenvolvimento web
+## 📚 Conhecimentos
 
-- HTML5 e semântica de páginas
-- CSS3, layouts, formulários, menus e responsividade
-- JavaScript e interação com páginas web
-- PHP para aplicações web, sessões, validações e integração com banco de dados
-- Ionic para desenvolvimento de aplicações
+`CRUD` `Autenticação` `Sessões` `Modelagem de dados` `Programação orientada a objetos`
 
-### Programação
+## 🚀 Projetos
 
-- Java, incluindo lógica, entrada de dados, condicionais, repetições e interfaces gráficas
-- C, com foco em lógica de programação e exercícios acadêmicos
-- Python, com manipulação de arquivos, vetores, processamento de dados e estruturas de repetição
-- JavaScript aplicado à lógica e ao desenvolvimento de interfaces
-
-### Bancos de dados
-
-- SQL e modelagem de bancos relacionais
-- MySQL
-- Criação de bancos, tabelas, chaves primárias e estrangeiras
-- Relacionamentos entre entidades
-- Operações de inserção, consulta, atualização e exclusão
-- Projetos acadêmicos de oficina, locadora e cadastro de usuários
-
-### Engenharia de software e sistemas
-
-- Análise e organização de projetos
-- Programação orientada a objetos
-- Arquitetura em camadas com controllers, models/DAOs e views
-- Autenticação, cadastro e controle de sessões
-- Desenvolvimento de sistemas CRUD
-- Noções de redes de computadores e protocolos
-- Versionamento e publicação de projetos
-
-## Projetos e estudos
-
-- **Portfólio pessoal:** página desenvolvida com HTML e CSS para apresentar minha trajetória, estudos e projetos.
-- **Projeto Banco:** sistema em PHP com login, cadastro, validações, sessões e operações de manutenção de usuários.
-- **Banco de dados de oficina:** modelagem SQL de oficinas, veículos, peças e reparos, com relacionamentos entre tabelas.
-- **Banco de dados de locadora:** modelagem de clientes, telefones, carros, locações e categorias de veículos.
-- **Projetos em Java:** calculadora e sistema de banco em modo texto, praticando entrada de dados e regras de negócio.
-- **Projetos em C:** exercícios e projetos de lógica desenvolvidos durante os estudos de Programação I.
-- **Projetos em Python:** leitura e processamento de arquivos, vetores, classificação de dados e exercícios de lógica.
-- **Aplicações desktop:** estudos com formulários, login e cadastro em C#/.NET Windows Forms.
-- **Interfaces web:** páginas de comércio, currículos, formulários, tabelas e menus desenvolvidas durante a formação técnica.
-
-## Tecnologias
-
-`HTML5` `CSS3` `JavaScript` `PHP` `Java` `C` `Python` `SQL` `MySQL` `Ionic` `C#` `Windows Forms`
-
-## Atualmente
-
-Estou fortalecendo minha base em Engenharia de Software, aprimorando minhas práticas de desenvolvimento e transformando os conhecimentos acadêmicos em aplicações cada vez mais completas.
-
-## Portfólio
-
-[Acesse meu portfólio pessoal](https://lukashntr.github.io/Portifolio/)
-
----
-
-<div align="center">
-	Desenvolvido por Miguel Lukas 
-</div>
+- Sistema de banco em PHP com login, cadastro e sessões
+- Modelagem SQL de sistemas de oficina e locadora
+- Projetos acadêmicos de lógica em C, Java e Python
