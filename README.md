@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o @Lukashntr 👋
 
-<!--
-**Lukashntr/lukashntr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e criação de soluções que geram valor real.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 💻 Foco em desenvolvimento de software e boas práticas de código
+- 📚 Sempre estudando novas tecnologias e aprimorando habilidades técnicas
+- 🤝 Interesse em colaborar em projetos desafiadores e com impacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades
+- **Linguagens:** JavaScript, TypeScript, Python
+- **Frontend:** HTML, CSS, React
+- **Backend:** Node.js, APIs REST
+- **Banco de dados:** SQL, PostgreSQL
+- **Ferramentas:** Git, GitHub, Docker
+
+## 🌱 Atualmente
+- Aprofundando conhecimentos em arquitetura de software
+- Evoluindo em testes automatizados e qualidade de código
+
+## 📫 Contato
+- GitHub: [@Lukashntr](https://github.com/Lukashntr)
