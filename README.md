@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou Miguel Lukas 👋</h1>
+<h1 align="center">Olá, eu sou Miguel Lukas </h1>
 
 <p align="center">
 	Técnico em Desenvolvimento de Sistemas | Estudante de Engenharia de Software
